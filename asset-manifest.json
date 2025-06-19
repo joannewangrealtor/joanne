@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/joanne/static/css/main.17bc2fa1.css",
+    "main.js": "/joanne/static/js/main.f7bdd2d2.js",
+    "static/media/services-selling-bg.jpg": "/joanne/static/media/services-selling-bg.0b060ac90706350f3a5c.jpg",
+    "index.html": "/joanne/index.html",
+    "main.17bc2fa1.css.map": "/joanne/static/css/main.17bc2fa1.css.map",
+    "main.f7bdd2d2.js.map": "/joanne/static/js/main.f7bdd2d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17bc2fa1.css",
+    "static/js/main.f7bdd2d2.js"
+  ]
+}

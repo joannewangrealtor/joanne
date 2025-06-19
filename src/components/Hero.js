@@ -7,7 +7,7 @@ function Hero() {
 
   return (
     <section className="hero" id="home">
-      <img src="/images/bg-sky.jpg" alt="hero background" className="hero-bg" />
+      <img src={`${process.env.PUBLIC_URL}/images/bg-sky.jpg`} alt="hero background" className="hero-bg" />
       <div className="hero-overlay animate-fade-in">
         <h1>{content.hero_title}</h1>
         <div className="hero-buttons">

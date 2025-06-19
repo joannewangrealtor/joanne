@@ -48,15 +48,15 @@ function Social() {
           <div className="social-qr-section">
             <div className="qr-codes">
               <div className="qr-item">
-                <img src="/images/WeChat.jpg" alt="WeChat QR Code" />
+                <img src={`${process.env.PUBLIC_URL}/images/WeChat.jpg`} alt="WeChat QR Code" />
                 <p>{content.social_qr_wechat}</p>
               </div>
               <div className="qr-item">
-                <img src="/images/Line.jpg" alt="Line QR Code" />
+                <img src={`${process.env.PUBLIC_URL}/images/Line.jpg`} alt="Line QR Code" />
                 <p>{content.social_qr_line}</p>
               </div>
               <div className="qr-item">
-                <img src="/images/Facebook.png" alt="Facebook QR Code" />
+                <img src={`${process.env.PUBLIC_URL}/images/Facebook.png`} alt="Facebook QR Code" />
                 <p>{content.social_qr_facebook}</p>
               </div>
             </div>
@@ -65,7 +65,7 @@ function Social() {
 
           {/* Right Section: Photo */}
           <div className="social-right">
-            <img src="/images/Me2.jpg" alt="Joanne" className="profile-photo" />
+            <img src={`${process.env.PUBLIC_URL}/images/Me2.jpg`} alt="Joanne" className="profile-photo" />
           </div>
         </div>
       </div>

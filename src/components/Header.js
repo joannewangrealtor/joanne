@@ -75,7 +75,7 @@ function Header() {
       <div className="container-full header-content">
         <div className="logo-section">
           <div className="logo">
-            <img src="/images/logo2.png" alt="Joanne Realty Logo" />
+            <img src={`${process.env.PUBLIC_URL}/images/logo2.png`} alt="Joanne Realty Logo" />
           </div>
           <span className="broker-name">Joanne Wang, Ph.D.</span>
         </div>

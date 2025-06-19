@@ -35,7 +35,7 @@ function About() {
           </div>
           <div className="about-image">
             <img
-              src="/images/Me1.jpg"
+              src={`${process.env.PUBLIC_URL}/images/Me1.jpg`}
               alt="Joanne Wang"
               className="animate-fade-in"
             />

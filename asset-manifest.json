@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/joanne/static/css/main.17bc2fa1.css",
-    "main.js": "/joanne/static/js/main.6792713d.js",
-    "static/media/services-selling-bg.jpg": "/joanne/static/media/services-selling-bg.0b060ac90706350f3a5c.jpg",
-    "index.html": "/joanne/index.html",
-    "main.17bc2fa1.css.map": "/joanne/static/css/main.17bc2fa1.css.map",
-    "main.6792713d.js.map": "/joanne/static/js/main.6792713d.js.map"
+    "main.css": "/static/css/main.8026c0e3.css",
+    "main.js": "/static/js/main.bcfa5497.js",
+    "static/media/services-selling-bg.jpg": "/static/media/services-selling-bg.0b060ac90706350f3a5c.jpg",
+    "index.html": "/index.html",
+    "main.8026c0e3.css.map": "/static/css/main.8026c0e3.css.map",
+    "main.bcfa5497.js.map": "/static/js/main.bcfa5497.js.map"
   },
   "entrypoints": [
-    "static/css/main.17bc2fa1.css",
-    "static/js/main.6792713d.js"
+    "static/css/main.8026c0e3.css",
+    "static/js/main.bcfa5497.js"
   ]
 }
